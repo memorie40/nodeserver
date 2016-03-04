@@ -1,0 +1,19 @@
+{
+  "author": "Memorie Durfee",
+  "name": "nodeserver",
+  "version": "0.1.1",
+  "description": "Basic node and REST server",
+  "main": "nodeserver",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/memorie40/nodeserver.git"
+  },
+  "keywords": [
+    "server",
+    "REST",
+    "node"
+  ],
+  "engines": {
+	"node": "*"
+  }
+}
